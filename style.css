@@ -1,0 +1,23 @@
+body{
+    font-family: 'Open Sans', sans-serif!important;
+    color: #777777;
+}
+h1, h2, h3{
+    font-family: 'El Messiri', sans-serif!important;
+    font-weight: bolder;
+    color: #333333;
+}
+#sect-cover{
+    height: 600px;
+    background-image: url("https://via.placeholder.com/600");
+    padding-top: 10rem;
+}
+.info-pessoal{
+    background-color: #F5F5F5;
+}
+.info-formacao{
+    background-color: #F0F0F0;
+}
+footer{
+    background-color: #F7F7F7;
+}
